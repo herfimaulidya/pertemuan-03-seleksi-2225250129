@@ -1,3 +1,4 @@
+# Program untuk menganalisis jenis akar persamaan kuadrat berdasarkan diskriminan
 print("Analisis Persamaan Kuadrat")
 
 a = float(input("Koefisien a: "))
